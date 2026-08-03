@@ -1,0 +1,21 @@
+file,category,composite_score,passed,expected_flag_correct,guidance,processing_time_ms
+good/good_01.jpg,good,88.25,True,True,Good capture — ready for processing,44.18
+good/good_02.jpg,good,88.29,True,True,Good capture — ready for processing,36.09
+good/good_03.jpg,good,88.32,True,True,Good capture — ready for processing,38.26
+good/good_04.jpg,good,88.26,True,True,Good capture — ready for processing,37.36
+good/good_05.jpg,good,88.23,True,True,Good capture — ready for processing,36.58
+blurry/blurry_01.jpg,blurry,59.41,False,True,Too blurry — hold your hand steady and retry.,36.3
+blurry/blurry_02.jpg,blurry,59.47,False,True,Too blurry — hold your hand steady and retry.,39.53
+blurry/blurry_03.jpg,blurry,59.38,False,True,Too blurry — hold your hand steady and retry.,38.38
+blurry/blurry_04.jpg,blurry,59.4,False,True,Too blurry — hold your hand steady and retry.,49.94
+blurry/blurry_05.jpg,blurry,59.41,False,True,Too blurry — hold your hand steady and retry.,54.02
+dark/dark_01.jpg,dark,68.18,False,True,Too dark — move to a brighter area or turn on more light.,54.34
+dark/dark_02.jpg,dark,68.23,False,True,Too dark — move to a brighter area or turn on more light.,55.77
+dark/dark_03.jpg,dark,68.82,False,True,Too dark — move to a brighter area or turn on more light.,68.82
+dark/dark_04.jpg,dark,69.02,False,True,Too dark — move to a brighter area or turn on more light.,88.98
+dark/dark_05.jpg,dark,68.89,False,True,Too dark — move to a brighter area or turn on more light.,68.7
+glare/glare_01.jpg,glare,69.25,False,True,Glare detected — move away from direct light or bright reflections and retry.,56.03
+glare/glare_02.jpg,glare,69.3,False,True,Glare detected — move away from direct light or bright reflections and retry.,55.6
+glare/glare_03.jpg,glare,69.22,False,True,Glare detected — move away from direct light or bright reflections and retry.,81.91
+glare/glare_04.jpg,glare,69.27,False,True,Glare detected — move away from direct light or bright reflections and retry.,99.45
+glare/glare_05.jpg,glare,69.26,False,True,Glare detected — move away from direct light or bright reflections and retry.,78.16
