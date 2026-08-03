@@ -6,7 +6,7 @@ pip install opencv-python-headless numpy streamlit reportlab matplotlib
 ```
 
 ## Files
-- `quality_assessment.py` — 5 metric functions + `quality_gate()` master function
+- `quality_assessment.py` — 5 metric functions + `quality_gate()` master function---(For ROI,simple thresholding or background removal is not giving the required results)
 - `quality_app.py` — Streamlit UI (`streamlit run quality_app.py`)
 - `test_quality.py` — batch test over `data/{good,blurry,dark,glare}`, writes `results.json` / `results_table.csv`
 - `report_content.py` — builds `report.pdf` from the results
