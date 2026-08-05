@@ -9,10 +9,9 @@ pip install opencv-python-headless numpy streamlit reportlab matplotlib
 - `quality_assessment.py` — 5 metric functions + `quality_gate()` master function
 - `quality_app.py` — Streamlit UI (`streamlit run quality_app.py`)
 - `test_quality.py` — batch test over `data/{good,blurry,dark,glare}`, writes `results.json` / `results_table.csv`
-- `generate_sample_images.py` — creates 20 SYNTHETIC placeholder images (replace with real phone photos before submitting — see Part D of the brief)
 - `report_content.py` — builds `report.pdf` from the results
-- `report.pdf` — written report answering the 5 required questions
-- `composite_score_by_category.png` — summary chart
+- `report.pdf` — written report answering the 5 required questions(Answers are present on page 2 followed by summary)
+
 
 ## Run order
 ```bash
