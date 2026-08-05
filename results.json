@@ -1,245 +1,146 @@
 {
-  "good_01.jpg": {
-    "passed": true,
-    "composite_score": 88.25,
-    "blur": {
-      "blur_score": 1315.558,
-      "is_blurry": false,
-      "threshold_used": 10.0
-    },
-    "brightness": {
-      "brightness": 178.215,
-      "too_dark": false,
-      "too_bright": false,
-      "low_threshold": 50.0,
-      "high_threshold": 210.0
-    },
-    "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
-    },
-    "roi": {
-      "roi_fraction": 0.4097,
-      "roi_complete": true,
-      "threshold_used": 0.15
-    },
-    "ridge": {
-      "ridge_score": 742.816,
-      "ridges_clear": true,
-      "threshold_used": 15.0
-    },
-    "guidance": "Good capture \u2014 ready for processing",
-    "processing_time_ms": 39.32
-  },
-  "good_02.jpg": {
-    "passed": true,
-    "composite_score": 88.29,
-    "blur": {
-      "blur_score": 1297.358,
-      "is_blurry": false,
-      "threshold_used": 10.0
-    },
-    "brightness": {
-      "brightness": 178.161,
-      "too_dark": false,
-      "too_bright": false,
-      "low_threshold": 50.0,
-      "high_threshold": 210.0
-    },
-    "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
-    },
-    "roi": {
-      "roi_fraction": 0.4108,
-      "roi_complete": true,
-      "threshold_used": 0.15
-    },
-    "ridge": {
-      "ridge_score": 783.391,
-      "ridges_clear": true,
-      "threshold_used": 15.0
-    },
-    "guidance": "Good capture \u2014 ready for processing",
-    "processing_time_ms": 34.17
-  },
-  "good_03.jpg": {
-    "passed": true,
-    "composite_score": 88.32,
-    "blur": {
-      "blur_score": 1319.651,
-      "is_blurry": false,
-      "threshold_used": 10.0
-    },
-    "brightness": {
-      "brightness": 178.109,
-      "too_dark": false,
-      "too_bright": false,
-      "low_threshold": 50.0,
-      "high_threshold": 210.0
-    },
-    "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
-    },
-    "roi": {
-      "roi_fraction": 0.4115,
-      "roi_complete": true,
-      "threshold_used": 0.15
-    },
-    "ridge": {
-      "ridge_score": 741.78,
-      "ridges_clear": true,
-      "threshold_used": 15.0
-    },
-    "guidance": "Good capture \u2014 ready for processing",
-    "processing_time_ms": 34.41
-  },
-  "good_04.jpg": {
-    "passed": true,
-    "composite_score": 88.26,
-    "blur": {
-      "blur_score": 1268.115,
-      "is_blurry": false,
-      "threshold_used": 10.0
-    },
-    "brightness": {
-      "brightness": 178.161,
-      "too_dark": false,
-      "too_bright": false,
-      "low_threshold": 50.0,
-      "high_threshold": 210.0
-    },
-    "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
-    },
-    "roi": {
-      "roi_fraction": 0.4097,
-      "roi_complete": true,
-      "threshold_used": 0.15
-    },
-    "ridge": {
-      "ridge_score": 821.266,
-      "ridges_clear": true,
-      "threshold_used": 15.0
-    },
-    "guidance": "Good capture \u2014 ready for processing",
-    "processing_time_ms": 34.03
-  },
-  "good_05.jpg": {
-    "passed": true,
-    "composite_score": 88.23,
-    "blur": {
-      "blur_score": 1279.47,
-      "is_blurry": false,
-      "threshold_used": 10.0
-    },
-    "brightness": {
-      "brightness": 178.191,
-      "too_dark": false,
-      "too_bright": false,
-      "low_threshold": 50.0,
-      "high_threshold": 210.0
-    },
-    "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
-    },
-    "roi": {
-      "roi_fraction": 0.409,
-      "roi_complete": true,
-      "threshold_used": 0.15
-    },
-    "ridge": {
-      "ridge_score": 767.863,
-      "ridges_clear": true,
-      "threshold_used": 15.0
-    },
-    "guidance": "Good capture \u2014 ready for processing",
-    "processing_time_ms": 34.05
-  },
-  "20260803_224811.jpg": {
+  "20260803_183939 (1).jpg": {
     "passed": false,
-    "composite_score": 78.78,
+    "composite_score": 72.54,
     "blur": {
-      "blur_score": 261.212,
+      "blur_score": 85.951,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 96.521,
+      "brightness": 99.902,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0,
-      "has_glare": false,
-      "threshold_used": 0.05
+      "glare_fraction": 0.0342,
+      "has_glare": true,
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0018,
-      "roi_complete": false,
+      "roi_fraction": 0.8245,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 849.965,
+      "ridge_score": 630.692,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 226.62
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 209.87
   },
-  "20260803_224812.jpg": {
+  "20260803_183939 - Copy.jpg": {
     "passed": false,
-    "composite_score": 79.4,
+    "composite_score": 69.16,
     "blur": {
-      "blur_score": 259.154,
+      "blur_score": 128.042,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 99.922,
+      "brightness": 77.396,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0002,
-      "has_glare": false,
-      "threshold_used": 0.05
+      "glare_fraction": 0.0736,
+      "has_glare": true,
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0018,
-      "roi_complete": false,
+      "roi_fraction": 0.4512,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 773.437,
+      "ridge_score": 2298.477,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 225.59
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 933.9
+  },
+  "20260803_183939.jpg": {
+    "passed": false,
+    "composite_score": 69.16,
+    "blur": {
+      "blur_score": 128.042,
+      "is_blurry": false,
+      "threshold_used": 40.0
+    },
+    "brightness": {
+      "brightness": 77.396,
+      "too_dark": false,
+      "too_bright": false,
+      "low_threshold": 50.0,
+      "high_threshold": 210.0
+    },
+    "glare": {
+      "glare_fraction": 0.0736,
+      "has_glare": true,
+      "threshold_used": 0.03
+    },
+    "roi": {
+      "roi_fraction": 0.4512,
+      "roi_complete": true,
+      "threshold_used": 0.15
+    },
+    "ridge": {
+      "ridge_score": 2298.477,
+      "ridges_clear": true,
+      "threshold_used": 60.0
+    },
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 714.48
+  },
+  "20260803_223402.jpg": {
+    "passed": false,
+    "composite_score": 70.36,
+    "blur": {
+      "blur_score": 101.045,
+      "is_blurry": false,
+      "threshold_used": 40.0
+    },
+    "brightness": {
+      "brightness": 135.527,
+      "too_dark": false,
+      "too_bright": false,
+      "low_threshold": 50.0,
+      "high_threshold": 210.0
+    },
+    "glare": {
+      "glare_fraction": 0.1215,
+      "has_glare": true,
+      "threshold_used": 0.03
+    },
+    "roi": {
+      "roi_fraction": 0.4293,
+      "roi_complete": true,
+      "threshold_used": 0.15
+    },
+    "ridge": {
+      "ridge_score": 736.708,
+      "ridges_clear": true,
+      "threshold_used": 60.0
+    },
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 226.98
   },
   "20260803_224821.jpg": {
     "passed": false,
-    "composite_score": 82.43,
+    "composite_score": 73.99,
     "blur": {
-      "blur_score": 227.323,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 35.132,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 115.382,
+      "brightness": 127.845,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -248,31 +149,64 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0057,
-      "roi_complete": false,
+      "roi_fraction": 0.7143,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 474.309,
+      "ridge_score": 482.894,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 228.65
+    "guidance": "Too blurry \u2014 hold your hand steady and retry.",
+    "processing_time_ms": 245.66
+  },
+  "20260803_224824 - Copy.jpg": {
+    "passed": true,
+    "composite_score": 75.78,
+    "blur": {
+      "blur_score": 46.561,
+      "is_blurry": false,
+      "threshold_used": 40.0
+    },
+    "brightness": {
+      "brightness": 130.196,
+      "too_dark": false,
+      "too_bright": false,
+      "low_threshold": 50.0,
+      "high_threshold": 210.0
+    },
+    "glare": {
+      "glare_fraction": 0.0,
+      "has_glare": false,
+      "threshold_used": 0.03
+    },
+    "roi": {
+      "roi_fraction": 0.7069,
+      "roi_complete": true,
+      "threshold_used": 0.15
+    },
+    "ridge": {
+      "ridge_score": 796.294,
+      "ridges_clear": true,
+      "threshold_used": 60.0
+    },
+    "guidance": "Good capture \u2014 ready for processing",
+    "processing_time_ms": 245.5
   },
   "20260803_224824.jpg": {
-    "passed": false,
-    "composite_score": 82.4,
+    "passed": true,
+    "composite_score": 75.78,
     "blur": {
-      "blur_score": 217.728,
+      "blur_score": 46.561,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 115.579,
+      "brightness": 130.196,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -281,64 +215,97 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0034,
-      "roi_complete": false,
+      "roi_fraction": 0.7069,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 617.004,
+      "ridge_score": 796.294,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 249.29
+    "guidance": "Good capture \u2014 ready for processing",
+    "processing_time_ms": 240.71
+  },
+  "20260803_224825 - Copy.jpg": {
+    "passed": false,
+    "composite_score": 74.68,
+    "blur": {
+      "blur_score": 39.076,
+      "is_blurry": true,
+      "threshold_used": 40.0
+    },
+    "brightness": {
+      "brightness": 130.391,
+      "too_dark": false,
+      "too_bright": false,
+      "low_threshold": 50.0,
+      "high_threshold": 210.0
+    },
+    "glare": {
+      "glare_fraction": 0.0017,
+      "has_glare": false,
+      "threshold_used": 0.03
+    },
+    "roi": {
+      "roi_fraction": 0.681,
+      "roi_complete": true,
+      "threshold_used": 0.15
+    },
+    "ridge": {
+      "ridge_score": 607.793,
+      "ridges_clear": true,
+      "threshold_used": 60.0
+    },
+    "guidance": "Too blurry \u2014 hold your hand steady and retry.",
+    "processing_time_ms": 244.1
   },
   "20260803_224825.jpg": {
     "passed": false,
-    "composite_score": 82.27,
+    "composite_score": 74.68,
     "blur": {
-      "blur_score": 222.258,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 39.076,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 114.75,
+      "brightness": 130.391,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0005,
+      "glare_fraction": 0.0017,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0057,
-      "roi_complete": false,
+      "roi_fraction": 0.681,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 656.386,
+      "ridge_score": 607.793,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 231.44
+    "guidance": "Too blurry \u2014 hold your hand steady and retry.",
+    "processing_time_ms": 246.6
   },
-  "dark_01.jpg": {
+  "3.jpg": {
     "passed": false,
-    "composite_score": 68.18,
+    "composite_score": 30.58,
     "blur": {
-      "blur_score": 51.327,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 1.673,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 38.727,
+      "brightness": 26.533,
       "too_dark": true,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -347,31 +314,31 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.4108,
+      "roi_fraction": 0.7066,
       "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 36.472,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 3.582,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
     "guidance": "Too dark \u2014 move to a brighter area or turn on more light.",
-    "processing_time_ms": 33.64
+    "processing_time_ms": 554.49
   },
-  "dark_02.jpg": {
+  "d1.jpg": {
     "passed": false,
-    "composite_score": 68.23,
+    "composite_score": 30.58,
     "blur": {
-      "blur_score": 51.291,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 1.673,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 38.716,
+      "brightness": 26.533,
       "too_dark": true,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -380,31 +347,31 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.4109,
+      "roi_fraction": 0.7066,
       "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 36.628,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 3.582,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
     "guidance": "Too dark \u2014 move to a brighter area or turn on more light.",
-    "processing_time_ms": 33.92
+    "processing_time_ms": 547.79
   },
-  "dark_03.jpg": {
+  "d2.jpg": {
     "passed": false,
-    "composite_score": 68.82,
+    "composite_score": 30.58,
     "blur": {
-      "blur_score": 52.665,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 1.673,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 38.722,
+      "brightness": 26.533,
       "too_dark": true,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -413,31 +380,31 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.4107,
+      "roi_fraction": 0.7066,
       "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 36.394,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 3.582,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
     "guidance": "Too dark \u2014 move to a brighter area or turn on more light.",
-    "processing_time_ms": 33.88
+    "processing_time_ms": 495.22
   },
-  "dark_04.jpg": {
+  "d4.jpg": {
     "passed": false,
-    "composite_score": 69.02,
+    "composite_score": 30.58,
     "blur": {
-      "blur_score": 51.958,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 1.673,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 38.716,
+      "brightness": 26.533,
       "too_dark": true,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -446,31 +413,31 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.4111,
+      "roi_fraction": 0.7066,
       "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 37.699,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 3.582,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
     "guidance": "Too dark \u2014 move to a brighter area or turn on more light.",
-    "processing_time_ms": 33.39
+    "processing_time_ms": 492.27
   },
-  "dark_05.jpg": {
+  "d5.jpg": {
     "passed": false,
-    "composite_score": 68.89,
+    "composite_score": 30.58,
     "blur": {
-      "blur_score": 50.843,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 1.673,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 38.709,
+      "brightness": 26.533,
       "too_dark": true,
       "too_bright": false,
       "low_threshold": 50.0,
@@ -479,184 +446,184 @@
     "glare": {
       "glare_fraction": 0.0,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.4111,
+      "roi_fraction": 0.7066,
       "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 38.715,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 3.582,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
     "guidance": "Too dark \u2014 move to a brighter area or turn on more light.",
-    "processing_time_ms": 33.4
+    "processing_time_ms": 501.27
   },
   "20260803_224831.jpg": {
     "passed": false,
-    "composite_score": 74.92,
+    "composite_score": 48.31,
     "blur": {
-      "blur_score": 233.086,
-      "is_blurry": false,
-      "threshold_used": 10.0
+      "blur_score": 23.933,
+      "is_blurry": true,
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 76.096,
+      "brightness": 68.585,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0,
+      "glare_fraction": 0.0276,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.001,
-      "roi_complete": false,
+      "roi_fraction": 0.9213,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 473.289,
+      "ridge_score": 133.52,
       "ridges_clear": true,
-      "threshold_used": 15.0
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 226.22
+    "guidance": "Too blurry \u2014 hold your hand steady and retry.",
+    "processing_time_ms": 252.94
   },
   "20260803_224833 - Copy.jpg": {
     "passed": false,
-    "composite_score": 79.49,
+    "composite_score": 50.65,
     "blur": {
-      "blur_score": 295.103,
+      "blur_score": 109.379,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 100.761,
+      "brightness": 82.011,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.012,
-      "has_glare": false,
-      "threshold_used": 0.05
+      "glare_fraction": 0.0318,
+      "has_glare": true,
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0291,
-      "roi_complete": false,
+      "roi_fraction": 0.5618,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 434.81,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 32.233,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 230.32
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 233.3
   },
   "20260803_224833.jpg": {
     "passed": false,
-    "composite_score": 79.49,
+    "composite_score": 50.65,
     "blur": {
-      "blur_score": 295.103,
+      "blur_score": 109.379,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 100.761,
+      "brightness": 82.011,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.012,
-      "has_glare": false,
-      "threshold_used": 0.05
+      "glare_fraction": 0.0318,
+      "has_glare": true,
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0291,
-      "roi_complete": false,
+      "roi_fraction": 0.5618,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 434.81,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 32.233,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 233.09
+    "guidance": "Glare detected \u2014 move away from direct light or bright reflections and retry.",
+    "processing_time_ms": 234.09
   },
   "20260803_224835 - Copy.jpg": {
     "passed": false,
-    "composite_score": 78.61,
+    "composite_score": 54.7,
     "blur": {
-      "blur_score": 368.801,
+      "blur_score": 149.025,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 83.272,
+      "brightness": 71.33,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0,
+      "glare_fraction": 0.0001,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0789,
-      "roi_complete": false,
+      "roi_fraction": 0.7151,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 255.68,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 19.987,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 232.33
+    "guidance": "Ridge detail unclear \u2014 clean your finger and camera lens, then hold steady.",
+    "processing_time_ms": 250.46
   },
   "20260803_224835.jpg": {
     "passed": false,
-    "composite_score": 78.61,
+    "composite_score": 54.7,
     "blur": {
-      "blur_score": 368.801,
+      "blur_score": 149.025,
       "is_blurry": false,
-      "threshold_used": 10.0
+      "threshold_used": 40.0
     },
     "brightness": {
-      "brightness": 83.272,
+      "brightness": 71.33,
       "too_dark": false,
       "too_bright": false,
       "low_threshold": 50.0,
       "high_threshold": 210.0
     },
     "glare": {
-      "glare_fraction": 0.0,
+      "glare_fraction": 0.0001,
       "has_glare": false,
-      "threshold_used": 0.05
+      "threshold_used": 0.03
     },
     "roi": {
-      "roi_fraction": 0.0789,
-      "roi_complete": false,
+      "roi_fraction": 0.7151,
+      "roi_complete": true,
       "threshold_used": 0.15
     },
     "ridge": {
-      "ridge_score": 255.68,
-      "ridges_clear": true,
-      "threshold_used": 15.0
+      "ridge_score": 19.987,
+      "ridges_clear": false,
+      "threshold_used": 60.0
     },
-    "guidance": "Finger not fully in frame \u2014 bring your finger closer to the camera and fill more of the frame.",
-    "processing_time_ms": 232.35
+    "guidance": "Ridge detail unclear \u2014 clean your finger and camera lens, then hold steady.",
+    "processing_time_ms": 242.72
   }
 }

@@ -1,0 +1,20 @@
+file,category,composite_score,passed,expected_flag_correct,guidance,processing_time_ms
+good/20260803_183939 (1).jpg,good,72.54,False,False,Glare detected — move away from direct light or bright reflections and retry.,209.87
+good/20260803_183939 - Copy.jpg,good,69.16,False,False,Glare detected — move away from direct light or bright reflections and retry.,933.9
+good/20260803_183939.jpg,good,69.16,False,False,Glare detected — move away from direct light or bright reflections and retry.,714.48
+good/20260803_223402.jpg,good,70.36,False,False,Glare detected — move away from direct light or bright reflections and retry.,226.98
+blurry/20260803_224821.jpg,blurry,73.99,False,True,Too blurry — hold your hand steady and retry.,245.66
+blurry/20260803_224824 - Copy.jpg,blurry,75.78,True,False,Good capture — ready for processing,245.5
+blurry/20260803_224824.jpg,blurry,75.78,True,False,Good capture — ready for processing,240.71
+blurry/20260803_224825 - Copy.jpg,blurry,74.68,False,True,Too blurry — hold your hand steady and retry.,244.1
+blurry/20260803_224825.jpg,blurry,74.68,False,True,Too blurry — hold your hand steady and retry.,246.6
+dark/3.jpg,dark,30.58,False,True,Too dark — move to a brighter area or turn on more light.,554.49
+dark/d1.jpg,dark,30.58,False,True,Too dark — move to a brighter area or turn on more light.,547.79
+dark/d2.jpg,dark,30.58,False,True,Too dark — move to a brighter area or turn on more light.,495.22
+dark/d4.jpg,dark,30.58,False,True,Too dark — move to a brighter area or turn on more light.,492.27
+dark/d5.jpg,dark,30.58,False,True,Too dark — move to a brighter area or turn on more light.,501.27
+glare/20260803_224831.jpg,glare,48.31,False,False,Too blurry — hold your hand steady and retry.,252.94
+glare/20260803_224833 - Copy.jpg,glare,50.65,False,True,Glare detected — move away from direct light or bright reflections and retry.,233.3
+glare/20260803_224833.jpg,glare,50.65,False,True,Glare detected — move away from direct light or bright reflections and retry.,234.09
+glare/20260803_224835 - Copy.jpg,glare,54.7,False,False,"Ridge detail unclear — clean your finger and camera lens, then hold steady.",250.46
+glare/20260803_224835.jpg,glare,54.7,False,False,"Ridge detail unclear — clean your finger and camera lens, then hold steady.",242.72
