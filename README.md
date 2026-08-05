@@ -18,7 +18,7 @@ pip install opencv-python-headless numpy streamlit reportlab matplotlib
 
 python3 test_quality.py               # runs the gate on all images, prints table
 python3 report_content.py             # rebuilds report.pdf from latest results
-streamlit run quality_app.py          # interactive UI — take your 4 screenshots here
+streamlit run quality_app.py          # interactive UI 
 ```
 
 
